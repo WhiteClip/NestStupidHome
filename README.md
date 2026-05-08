@@ -1,6 +1,7 @@
 # 🏠 Nest — Home Digital Twin
 
 > 运行在口袋里的家庭数字孪生体。离线优先，确定性算法，零打扰地感知家的状态。
+![Uploading 12q12wetyu8i9oo]\Simulator Screenshot - iPhone 17 Pro - 2026-03-25 at 15.06.33.png…]()
 
 ---
 
